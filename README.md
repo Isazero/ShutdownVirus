@@ -1,4 +1,6 @@
 # ShutdownVirus
+Disclaimer: Author add this to github only for study purpose. 
+
 Found this virus on my  Laptop.It was shutting down my PC in 5 minutes after my system was loaded. Here are all files of this virus. Plus tried to reverse it. Found some interesting info. File hdwqwo contains code like "SetTimer" and etc. However,I don't understand what js script does here. Super complicated for me.
 
 
